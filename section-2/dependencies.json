@@ -1,0 +1,11 @@
+{
+ "Dependencies" : {
+  	"beautifulsoup4":"==4.4.1",
+	"boto":"==2.48.0",
+	"bz2file":"==0.98",
+	"certifi":"==2017.7.27.1",
+	"chardet":"==3.0.4",
+	"bhenchod":"==6.9",
+	"bhadva":"==9.9"
+}
+}
